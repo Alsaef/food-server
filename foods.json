@@ -1,0 +1,57 @@
+[
+    {
+      "name": "Margherita Pizza",
+      "image": "https://images.pexels.com/photos/1435907/pexels-photo-1435907.jpeg",
+      "price": 12.99,
+      "description": "Classic Italian pizza topped with fresh tomatoes, mozzarella cheese, and basil leaves."
+    },
+    {
+      "name": "Cheeseburger",
+      "image": "https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg",
+      "price": 9.99,
+      "description": "Juicy beef patty topped with melted cheese, lettuce, tomato, and a sesame seed bun."
+    },
+    {
+      "name": "Pasta Alfredo",
+      "image": "https://images.pexels.com/photos/8500/food-dinner-pasta-spaghetti-8500.jpg",
+      "price": 14.99,
+      "description": "Creamy Alfredo sauce mixed with fettuccine pasta and parmesan cheese."
+    },
+    {
+      "name": "Sushi Platter",
+      "image": "https://images.pexels.com/photos/1854651/pexels-photo-1854651.jpeg",
+      "price": 18.99,
+      "description": "A variety of fresh sushi rolls, including salmon, tuna, and avocado."
+    },
+    {
+      "name": "Grilled Salmon",
+      "image": "https://images.pexels.com/photos/3298184/pexels-photo-3298184.jpeg",
+      "price": 22.99,
+      "description": "Grilled salmon fillet served with lemon butter sauce and steamed vegetables."
+    },
+    {
+      "name": "Chocolate Cake",
+      "image": "https://images.pexels.com/photos/4110002/pexels-photo-4110002.jpeg",
+      "price": 6.99,
+      "description": "Rich and moist chocolate cake topped with a layer of creamy chocolate frosting."
+    },
+    {
+      "name": "Caesar Salad",
+      "image": "https://images.pexels.com/photos/769289/pexels-photo-769289.jpeg",
+      "price": 10.99,
+      "description": "Crisp romaine lettuce with Caesar dressing, croutons, and parmesan cheese."
+    },
+    {
+      "name": "BBQ Ribs",
+      "image": "https://images.pexels.com/photos/616354/pexels-photo-616354.jpeg",
+      "price": 19.99,
+      "description": "Tender, slow-cooked ribs covered in a smoky barbecue sauce."
+    },
+    {
+      "name": "Chicken Wings",
+      "image": "https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg",
+      "price": 11.99,
+      "description": "Crispy fried chicken wings tossed in a spicy buffalo sauce."
+    }
+  ]
+  
